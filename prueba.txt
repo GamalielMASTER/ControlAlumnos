@@ -1,0 +1,1 @@
+primero se actualiza los cambios del repositorio al tu computadora con git pull"
