@@ -1,0 +1,12 @@
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.exe.config
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.exe
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.pdb
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\bin\Debug\ControlAlumnos.xml
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.vbproj.AssemblyReference.cache
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.vbproj.SuggestedBindingRedirects.cache
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.Resources.resources
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.vbproj.GenerateResource.cache
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.vbproj.CoreCompileInputs.cache
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.exe
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.xml
+C:\Nueva carpeta\ControlAlumnos\ControlAlumnos\obj\Debug\ControlAlumnos.pdb
